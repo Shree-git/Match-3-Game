@@ -2,7 +2,11 @@
 
 If you love the game Candy Crush, then you will love this game as well.
 
+There are 3 levels currently.
+
 Made using Unity Game Engine.
+
+Play/download the game [here](https://shree56.itch.io/match-3).
 
 ![match](https://user-images.githubusercontent.com/56151022/159075987-d2984216-5c7e-4a26-a1db-2aed19451054.png)
 ![match1](https://user-images.githubusercontent.com/56151022/159076002-d90020a1-ea60-471b-a452-86adb14a131c.png)
